@@ -1,7 +1,7 @@
 # Real_Fake_NeuralNet_DeepLearn
 # Deep Learning Neural Network Model for Real vs. Fake Image Detection
 
-![Fake Image Detection](image.jpg)
+![Fake Image Detection](images.jpg)
 
 This repository hosts a deep learning neural network model designed to distinguish between real and fake images of people. The ability to identify manipulated or synthetic images has become increasingly important in today's digital landscape, where image manipulation and deepfake technologies are on the rise. This model helps address these concerns by providing an automated means to detect the authenticity of images.
 
